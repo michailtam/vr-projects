@@ -1,0 +1,161 @@
+fileFormatVersion: 2
+guid: f36ecefdf55d1ee4f861446f5dfa807c
+timeCreated: 1484524533
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: s7_int_steering_wheel_0
+    100004: s7_int_steering_wheel_1
+    100006: s7_int_steering_wheel_12
+    100008: s7_int_steering_wheel_4
+    100010: s7_int_steering_wheel_6
+    100012: s7_int_steering_wheel_6_MeshPart0
+    100014: s7_int_steering_wheel_6_MeshPart1
+    100016: s7_int_steering_wheel_8
+    100018: s7_int_steering_wheel_8_MeshPart0
+    100020: s7_int_steering_wheel_8_MeshPart1
+    100022: s7_int_steering_wheel_9
+    100024: s7_int_steering_wheel_no_ts_ID_1
+    100026: s7_int_steering_wheel_no_ts_ID_2
+    100028: s7_int_steering_wheel_no_ts_ID_3
+    100030: s7_int_steering_wheel_no_ts_ID_4
+    100032: s7_int_steering_wheel_no_ts_ID_5
+    100034: s7_int_steering_wheel_no_ts_ID_6
+    100036: s7_int_steering_wheel_no_ts_ID_7
+    400000: //RootNode
+    400002: s7_int_steering_wheel_0
+    400004: s7_int_steering_wheel_1
+    400006: s7_int_steering_wheel_12
+    400008: s7_int_steering_wheel_4
+    400010: s7_int_steering_wheel_6
+    400012: s7_int_steering_wheel_6_MeshPart0
+    400014: s7_int_steering_wheel_6_MeshPart1
+    400016: s7_int_steering_wheel_8
+    400018: s7_int_steering_wheel_8_MeshPart0
+    400020: s7_int_steering_wheel_8_MeshPart1
+    400022: s7_int_steering_wheel_9
+    400024: s7_int_steering_wheel_no_ts_ID_1
+    400026: s7_int_steering_wheel_no_ts_ID_2
+    400028: s7_int_steering_wheel_no_ts_ID_3
+    400030: s7_int_steering_wheel_no_ts_ID_4
+    400032: s7_int_steering_wheel_no_ts_ID_5
+    400034: s7_int_steering_wheel_no_ts_ID_6
+    400036: s7_int_steering_wheel_no_ts_ID_7
+    2300000: s7_int_steering_wheel_0
+    2300002: s7_int_steering_wheel_1
+    2300004: s7_int_steering_wheel_12
+    2300006: s7_int_steering_wheel_4
+    2300008: s7_int_steering_wheel_6_MeshPart0
+    2300010: s7_int_steering_wheel_6_MeshPart1
+    2300012: s7_int_steering_wheel_8_MeshPart0
+    2300014: s7_int_steering_wheel_8_MeshPart1
+    2300016: s7_int_steering_wheel_9
+    2300018: s7_int_steering_wheel_no_ts_ID_1
+    2300020: s7_int_steering_wheel_no_ts_ID_2
+    2300022: s7_int_steering_wheel_no_ts_ID_3
+    2300024: s7_int_steering_wheel_no_ts_ID_4
+    2300026: s7_int_steering_wheel_no_ts_ID_5
+    2300028: s7_int_steering_wheel_no_ts_ID_6
+    2300030: s7_int_steering_wheel_no_ts_ID_7
+    3300000: s7_int_steering_wheel_0
+    3300002: s7_int_steering_wheel_1
+    3300004: s7_int_steering_wheel_12
+    3300006: s7_int_steering_wheel_4
+    3300008: s7_int_steering_wheel_6_MeshPart0
+    3300010: s7_int_steering_wheel_6_MeshPart1
+    3300012: s7_int_steering_wheel_8_MeshPart0
+    3300014: s7_int_steering_wheel_8_MeshPart1
+    3300016: s7_int_steering_wheel_9
+    3300018: s7_int_steering_wheel_no_ts_ID_1
+    3300020: s7_int_steering_wheel_no_ts_ID_2
+    3300022: s7_int_steering_wheel_no_ts_ID_3
+    3300024: s7_int_steering_wheel_no_ts_ID_4
+    3300026: s7_int_steering_wheel_no_ts_ID_5
+    3300028: s7_int_steering_wheel_no_ts_ID_6
+    3300030: s7_int_steering_wheel_no_ts_ID_7
+    4300000: s7_int_steering_wheel_0
+    4300002: s7_int_steering_wheel_1
+    4300004: s7_int_steering_wheel_12
+    4300006: s7_int_steering_wheel_4
+    4300008: s7_int_steering_wheel_6_MeshPart0
+    4300010: s7_int_steering_wheel_6_MeshPart1
+    4300012: s7_int_steering_wheel_8_MeshPart0
+    4300014: s7_int_steering_wheel_8_MeshPart1
+    4300016: s7_int_steering_wheel_9
+    4300018: s7_int_steering_wheel_no_ts_ID_1
+    4300020: s7_int_steering_wheel_no_ts_ID_2
+    4300022: s7_int_steering_wheel_no_ts_ID_3
+    4300024: s7_int_steering_wheel_no_ts_ID_4
+    4300026: s7_int_steering_wheel_no_ts_ID_5
+    4300028: s7_int_steering_wheel_no_ts_ID_6
+    4300030: s7_int_steering_wheel_no_ts_ID_7
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
